@@ -1,10 +1,11 @@
 ### Hi, I'm Chris! 👋
 
-- 🔭 I’m currently working on software for scientific reproducibility and research automation
-- 🌱 I’m currently learning Rust, and basic web dev
-- 💬 Ask me about Python, Git, QIIME 2, microbiome bioinformatics, and home-brewed soda :soda:
+- 🔭 I'm building software for scientific reproducibility and research automation
+- 🌱 I’m learning Rust and basic web dev, and wrapping up an MSCS
+- 💬 Ask me about Python, Git, QIIME 2, microbiome bioinformatics, and home-brewed soda :champagne:
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKeefe)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKeefe&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKeefe&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
