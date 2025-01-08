@@ -1,8 +1,8 @@
 ### Hi, I'm Chris! 👋
 
-- 🔭 I'm building software for research automation and scientific reproducibility :microscope:
+- 📜 I'm building Tier 1 compliance and policy solutions for Amazon Pharmacy 💊
 - 🌱 I’m learning TypeScript, CDK, data-intensive web dev, and the Norwegian language :norway:
-- 💬 Ask me about Python, Git, Linux, QIIME 2, microbiome bioinformatics, and home-brewed soda :champagne:
+- 💬 Ask me about Python, Git, Linux, QIIME 2, OPA Rego, microbiome bioinformatics, and home-brewed soda :champagne:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKeefe&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
